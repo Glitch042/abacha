@@ -1,0 +1,47 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+div.main-word {
+    background-color: red;
+    padding: 30px;
+    text-align: center;
+}
+div.main-word h1 {
+    color: white;
+    border: white solid 3px;
+    display: inline-block;
+    padding: 6px;
+}
+div.main-image {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 15px;
+}
+h2 {
+    color: red;
+    text-align: center;
+    margin-bottom: 5px;
+}div.main-content {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+div.main-content p {
+    margin-bottom: 10px;
+}
+div.main-content h3 {
+    color: red;
+}
+div.main-background {
+    background-color: red;
+    text-align: center;
+    margin-top: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+div.main-background h1 {
+    margin-bottom: 5px;
+    color: white;
+    font-size: 30px;
+}
